@@ -7,7 +7,7 @@ I believe digital literacy is more than just using tools; it is about communicat
 This repository features five core tasks: a custom infographic, professional profiles, and coding challenges. It also includes professional email drafts, a social media guide, and a researched cybercrime case study. This project highlights my ability to use various digital tools to communicate effectively.
 
 
-Task 1: Digital Literacy Awareness Infographic
+# Task 1: Digital Literacy Awareness Infographic
 This task involved creating a one-page visual resource to help understand the importance of digital literacy.
 
 Project Details
@@ -17,7 +17,7 @@ Objective: To simplify complex digital concepts into an engaging, easy-to-digest
 Design Highlights:The infographic focuses on actionable steps for maintaining a professional digital footprint and navigating academic tools safely. By using a clean, modern layout, the design ensures that key takeaways—like email etiquette and internet safety—are immediately accessible.
 
 
-Task 2: Building a Student Digital Portfolio 
+# Task 2: Building a Student Digital Portfolio 
 This task involved establishing a professional online presence across key platforms to connect with the academic and professional communities.
 
 Profiles Established
