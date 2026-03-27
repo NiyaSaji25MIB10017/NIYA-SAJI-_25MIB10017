@@ -1,35 +1,74 @@
-I’m Niya Saji (Reg No. 25MIB10017), a student at VIT Bhopal University currently pursuing an Integrated M.Tech in Artificial Intelligence and Bioinformatics. Beyond my core technical studies in Python and C++, I am deeply interested in how we navigate and secure our digital spaces.
+Hello, my name is Niya Saji. I am currently a student of Artificial Intelligence and Bioinformatics. I am interested in learning how technology can be used to solve real-world and biological problems.
 
+I have basic knowledge of programming and enjoy exploring new tools and platforms. Through my digital literacy assignments, I have learned the importance of using technology in a safe, responsible, and effective way. I understand how to use digital tools for learning, communication, and collaboration.
+
+I am also aware of safe internet practices, professional online behavior, and proper email etiquette. I am always willing to learn new skills and improve my knowledge in both technical and practical areas.
 I believe digital literacy is more than just using tools; it is about communicating safely, staying aware of cyber threats, and building a professional online presence that reflects our skills. This portfolio is my way of documenting that journey—from creating visual resources to practicing responsible digital citizenship.
+
 
 
 # guide to digital litercy 
 This repository features five core tasks: a custom infographic, professional profiles, and coding challenges. It also includes professional email drafts, a social media guide, and a researched cybercrime case study. This project highlights my ability to use various digital tools to communicate effectively.
 
 
-# Task 1: Digital Literacy Awareness Infographic
-This task involved creating a one-page visual resource to help understand the importance of digital literacy.
 
-Project Details
-Tool Used: Canva.
-Core Topics: Digital tool utility, safe internet practices, and professional online presence.
-Objective: To simplify complex digital concepts into an engaging, easy-to-digest visual format for students.
-Design Highlights:The infographic focuses on actionable steps for maintaining a professional digital footprint and navigating academic tools safely. By using a clean, modern layout, the design ensures that key takeaways—like email etiquette and internet safety—are immediately accessible.
+# Task 1: Digital Literacy Awareness Infographic
+
+*Objective:*
+The aim of this task was to understand the concept of digital literacy and present it in a simple and creative way using a poster.
+
+*Work Done:*
+For this task, I created a digital poster based on digital literacy. The poster includes important topics such as:
+*What digital literacy is
+*Useful digital tools for students
+*Safe internet practices
+*Professional online presence
+*Email etiquette
+
+I designed the poster using Canva-style elements like simple layouts, icons, and soft colors to make it easy to understand and visually appealing.
+The final poster is included in the repository.
+
+*What I Learned:*
+*Better understanding of digital literacy
+*Importance of online safety
+*How to present information in a visual format
+*Basic design skills using digital tools
+
+*Files Included:*
+poster_TASK1
+
+*Conclusion:*
+This task helped me understand important digital concepts and present them in a creative way. It also improved my ability to design simple and informative content.
+
 
 
 # Task 2: Building a Student Digital Portfolio 
-This task involved establishing a professional online presence across key platforms to connect with the academic and professional communities.
 
-Profiles Established
-GitHub: Created a profile README with my branch and year.
-LinkedIn: Updated my education section with my current degree and institution.
-Kaggle: Set up a foundational account to explore data science and AI resources.
+*Objective*
+The aim of this task was to create a repository and organize all the digital literacy tasks in a proper and structured way.
 
-Objective:The goal was to create a professional digital footprint that can be used to verify my skills and academic progress.
+*Work Done:*
+*For this task, I created a repository and added all the required files related to the assignment.
+*I organized the work into separate folders for each task to keep everything clear and easy to access. I also added README files to explain each task briefly.
 
- the direct links to my profiles-
+This helped in understanding how to manage and present project files properly.
+
+*What I Learned:*
+*How to create and manage a repository
+*Importance of organizing files properly
+*Basic understanding of documentation (README files)
+*How to present work in a structured format
+
+*Files Included:*
+PROFILES.pdf
+
+*Conclusion:*
+This task helped me learn how to organize my work in a proper way. It also gave me a basic idea of how projects are managed and documented.
+
+*direct links to my profiles:*
 www.linkedin.com/in/niya-saji-4a077339b
 https://github.com/NiyaSaji25MIB10017/digital-literacy-project
+
 
 
 # Task 3:Coding & Collaboration Platforms 
@@ -118,8 +157,7 @@ This task helped me improve my communication skills and understand how to behave
 
 # Task 5: Cybercrime Awareness Case Study & Prevention Guide
 
-*Objective*
-
+*Objective:*
 The aim of this task was to understand different types of cybercrime and learn how to stay safe online. It also focused on creating awareness among students about online safety.
 
 *Part A: Case Study*
@@ -142,7 +180,7 @@ I created a “Stay Safe Online” checklist with practical tips such as:
 * Avoiding unknown links
 * Verifying payment requests
 
-I also included:
+*I also included:*
 * National Cyber Crime Portal
 * Helpline number (1930)
 
