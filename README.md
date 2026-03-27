@@ -29,7 +29,7 @@ Objective:The goal was to create a professional digital footprint that can be us
 
 # the direct links to my profiles-
 www.linkedin.com/in/niya-saji-4a077339b
-https://github.com/NiyaSaji25MIB10017
+https://github.com/NiyaSaji25MIB10017/digital-literacy-project
 
 
 # Task 3:Coding & Collaboration Platforms 
