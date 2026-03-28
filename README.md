@@ -58,8 +58,8 @@ What I Learned:
 - Basic understanding of documentation (README files)
 - How to present work in a structured format
 
-Files Included:
-Task-2-portfolio
+File Included:
+- Task-2-portfolio
 
 Conclusion:
 This task helped me learn how to organize my work in a proper way. It also gave me a basic idea of how projects are managed and documented.
